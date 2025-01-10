@@ -3,7 +3,7 @@
 
 This project is a Python-based image processing tool that removes blemishes from images using a technique called **seamless cloning**. The tool uses OpenCV to interact with the image, allowing users to select blemishes and replace them with smoother regions from the surrounding area.
 
-![Alt text](doucmenr-scanner-project.png)
+![Alt text](blemish-project.png)
 ---
 
 ## Features
