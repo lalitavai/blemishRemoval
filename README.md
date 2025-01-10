@@ -31,7 +31,8 @@ This project is a Python-based image processing tool that removes blemishes from
 -   Press **'s'** to save the edited image as blemish-removed.jpg.
 -   Press **ESC** to exit the program.
 
-3.**Image File:** The script assumes the image to be processed is named **blemish.png**. Change this in the code if you're using a different file.
+3.**Image File:** 
+  The script assumes the image to be processed is named **blemish.png **. Change this in the code if you're using a different file.
 ---
 
 
